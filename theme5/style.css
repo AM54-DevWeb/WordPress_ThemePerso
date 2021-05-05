@@ -1,0 +1,36 @@
+/*
+Theme Name: theme5
+Theme URI: 
+Author: AM54
+Author URI: 
+Description: theme pour theme5
+Requires at least: WordPress
+*/
+
+.menu{
+    border: 1px solid black;
+    background-color: grey;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+.articles{
+    display: grid;
+}
+
+.category li{
+    list-style-type: none;
+}
+
+.category ul{
+    display: inline-flex;
+    padding: 0;
+}
+
+.space{
+    height: 80px;
+}
